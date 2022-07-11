@@ -30,7 +30,7 @@ public:
 };
 
 
-// approach 3 - Combinomatrics
+// approach 3 - Combinatorics
 class Solution {
 public:
     int uniquePaths(int m, int n) {
